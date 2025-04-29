@@ -2,19 +2,44 @@
   "datos_departamentos": {
     "amazonas": {
       "universidades": {
-        "publicas": [],
-        "privadas": []
+        "publicas": [
+          {
+            "nombre": "Universidad Nacional Toribio Rodríguez de Mendoza",
+            "siglas": "UNTRM"
+          }
+        ],
+        "privadas": [
+          {
+            "nombre": "Universidad Católica Los Ángeles de Chimbote",
+            "siglas": "ULADECH"
+          }
+        ]
       }
     },
     "ancash": {
       "universidades": {
-        "publicas": [],
-        "privadas": []
+        "publicas": [
+          {
+            "nombre": "Universidad Nacional Santiago Antúnez de Mayolo",
+            "siglas": "UNASAM"
+          }
+        ],
+        "privadas": [
+          {
+            "nombre": "Universidad Católica Los Ángeles de Chimbote",
+            "siglas": "ULADECH"
+          }
+        ]
       }
     },
     "apurimac": {
       "universidades": {
-        "publicas": [],
+        "publicas": [
+          {
+            "nombre": "Universidad Nacional Micaela Bastidas de Apurímac",
+            "siglas": "UNAMBA"
+          }
+        ],
         "privadas": []
       }
     },
@@ -54,20 +79,45 @@
     },
     "ayacucho": {
       "universidades": {
-        "publicas": [],
+        "publicas": [
+          {
+            "nombre": "Universidad Nacional de San Cristóbal de Huamanga",
+            "siglas": "UNSCH"
+          }
+        ],
         "privadas": []
       }
     },
     "cajamarca": {
       "universidades": {
-        "publicas": [],
-        "privadas": []
+        "publicas": [
+          {
+            "nombre": "Universidad Nacional de Cajamarca",
+            "siglas": "UNC"
+          }
+        ],
+        "privadas": [
+          {
+            "nombre": "Universidad Privada Antonio Guillermo Urrelo",
+            "siglas": "UPAGU"
+          }
+        ]
       }
     },
     "callao": {
       "universidades": {
-        "publicas": [],
-        "privadas": []
+        "publicas": [
+          {
+            "nombre": "Universidad Nacional del Callao",
+            "siglas": "UNAC"
+          }
+        ],
+        "privadas": [
+          {
+            "nombre": "Universidad Privada del Norte",
+            "siglas": "UPN"
+          }
+        ]
       }
     },
     "cusco": {
@@ -75,67 +125,101 @@
         "publicas": [
           {
             "nombre": "Universidad Nacional de San Antonio Abad del Cusco",
-            "caracteristicas_generales": {
-              "modalidades_estudio": ["presencial"],
-              "carreras_disponibles": ["Turismo", "Arqueología", "Ingeniería"]
-            },
-            "costos": {
-              "pension_mensual": 0,
-              "matricula": 0
-            },
-            "ranking_sunedu": 10
+            "siglas": "UNSAAC"
           }
         ],
         "privadas": [
           {
             "nombre": "Universidad Andina del Cusco",
-            "caracteristicas_generales": {
-              "modalidades_estudio": ["presencial", "semipresencial"],
-              "carreras_disponibles": ["Medicina", "Derecho", "Administración"]
-            },
-            "costos": {
-              "pension_mensual": 1500,
-              "matricula": 1800
-            },
-            "ranking_sunedu": 15
+            "siglas": "UAC"
           }
         ]
       }
     },
     "huancavelica": {
       "universidades": {
-        "publicas": [],
+        "publicas": [
+          {
+            "nombre": "Universidad Nacional de Huancavelica",
+            "siglas": "UNH"
+          }
+        ],
         "privadas": []
       }
     },
     "huanuco": {
       "universidades": {
-        "publicas": [],
+        "publicas": [
+          {
+            "nombre": "Universidad Nacional Hermilio Valdizán",
+            "siglas": "UNHEVAL"
+          }
+        ],
         "privadas": []
       }
     },
     "ica": {
       "universidades": {
-        "publicas": [],
-        "privadas": []
+        "publicas": [
+          {
+            "nombre": "Universidad Nacional San Luis Gonzaga",
+            "siglas": "UNICA"
+          }
+        ],
+        "privadas": [
+          {
+            "nombre": "Universidad Privada San Juan Bautista",
+            "siglas": "UPSJB"
+          }
+        ]
       }
     },
     "junin": {
       "universidades": {
-        "publicas": [],
-        "privadas": []
+        "publicas": [
+          {
+            "nombre": "Universidad Nacional del Centro del Perú",
+            "siglas": "UNCP"
+          }
+        ],
+        "privadas": [
+          {
+            "nombre": "Universidad Continental",
+            "siglas": "UC"
+          }
+        ]
       }
     },
     "la_libertad": {
       "universidades": {
-        "publicas": [],
-        "privadas": []
+        "publicas": [
+          {
+            "nombre": "Universidad Nacional de Trujillo",
+            "siglas": "UNT"
+          }
+        ],
+        "privadas": [
+          {
+            "nombre": "Universidad Privada Antenor Orrego",
+            "siglas": "UPAO"
+          }
+        ]
       }
     },
     "lambayeque": {
       "universidades": {
-        "publicas": [],
-        "privadas": []
+        "publicas": [
+          {
+            "nombre": "Universidad Nacional Pedro Ruiz Gallo",
+            "siglas": "UNPRG"
+          }
+        ],
+        "privadas": [
+          {
+            "nombre": "Universidad Católica Santo Toribio de Mogrovejo",
+            "siglas": "USAT"
+          }
+        ]
       }
     },
     "lima": {
@@ -226,64 +310,159 @@
     },
     "loreto": {
       "universidades": {
-        "publicas": [],
-        "privadas": []
+        "publicas": [
+          {
+            "nombre": "Universidad Nacional de la Amazonía Peruana",
+            "siglas": "UNAP"
+          }
+        ],
+        "privadas": [
+          {
+            "nombre": "Universidad Privada de la Selva Peruana",
+            "siglas": "UPSP"
+          }
+        ]
       }
     },
     "madre_de_dios": {
       "universidades": {
-        "publicas": [],
+        "publicas": [
+          {
+            "nombre": "Universidad Nacional Amazónica de Madre de Dios",
+            "siglas": "UNAMAD"
+          }
+        ],
         "privadas": []
       }
     },
     "moquegua": {
       "universidades": {
-        "publicas": [],
+        "publicas": [
+          {
+            "nombre": "Universidad Nacional de Moquegua",
+            "siglas": "UNAM"
+          }
+        ],
         "privadas": []
       }
     },
     "pasco": {
       "universidades": {
-        "publicas": [],
+        "publicas": [
+          {
+            "nombre": "Universidad Nacional Daniel Alcides Carrión",
+            "siglas": "UNDAC"
+          }
+        ],
         "privadas": []
       }
     },
     "piura": {
       "universidades": {
-        "publicas": [],
-        "privadas": []
+        "publicas": [
+          {
+            "nombre": "Universidad Nacional de Piura",
+            "siglas": "UNP"
+          }
+        ],
+        "privadas": [
+          {
+            "nombre": "Universidad de Piura",
+            "siglas": "UDEP"
+          }
+        ]
       }
     },
     "puno": {
       "universidades": {
-        "publicas": [],
-        "privadas": []
+        "publicas": [
+          {
+            "nombre": "Universidad Nacional del Altiplano",
+            "siglas": "UNA PUNO"
+          }
+        ],
+        "privadas": [
+          {
+            "nombre": "Universidad Andina Néstor Cáceres Velásquez",
+            "siglas": "UANCV"
+          }
+        ]
       }
     },
     "san_martin": {
       "universidades": {
-        "publicas": [],
-        "privadas": []
+        "publicas": [
+          {
+            "nombre": "Universidad Nacional de San Martín",
+            "siglas": "UNSM"
+          }
+        ],
+        "privadas": [
+          {
+            "nombre": "Universidad Peruana Unión",
+            "siglas": "UPeU"
+          }
+        ]
       }
     },
     "tacna": {
       "universidades": {
-        "publicas": [],
+        "publicas": [
+          {
+            "nombre": "Universidad Nacional Jorge Basadre Grohmann",
+            "siglas": "UNJBG"
+          }
+        ],
         "privadas": []
       }
     },
     "tumbes": {
       "universidades": {
-        "publicas": [],
-        "privadas": []
+        "publicas": [
+          {
+            "nombre": "Universidad Nacional de Tumbes",
+            "siglas": "UNTUMBES"
+          }
+        ],
+        "privadas": [
+          {
+            "nombre": "Universidad Católica Los Ángeles de Chimbote",
+            "siglas": "ULADECH"
+          },
+          {
+            "nombre": "Universidad Alas Peruanas",
+            "siglas": "UAP"
+          }
+        ]
       }
     },
     "ucayali": {
       "universidades": {
-        "publicas": [],
-        "privadas": []
+        "publicas": [
+          {
+            "nombre": "Universidad Nacional de Ucayali",
+            "siglas": "UNU"
+          },
+          {
+            "nombre": "Universidad Nacional Intercultural de la Amazonía",
+            "siglas": "UNIA"
+          }
+        ],
+        "privadas": [
+          {
+            "nombre": "Universidad Católica Los Ángeles de Chimbote",
+            "siglas": "ULADECH"
+          },
+          {
+            "nombre": "Universidad Privada de Pucallpa",
+            "siglas": "UPP"
+          },
+          {
+            "nombre": "Universidad Alas Peruanas",
+            "siglas": "UAP"
+          }
+        ]
       }
     }
   }
 }
-
