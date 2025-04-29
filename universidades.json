@@ -1,1 +1,289 @@
+{
+  "datos_departamentos": {
+    "amazonas": {
+      "universidades": {
+        "publicas": [],
+        "privadas": []
+      }
+    },
+    "ancash": {
+      "universidades": {
+        "publicas": [],
+        "privadas": []
+      }
+    },
+    "apurimac": {
+      "universidades": {
+        "publicas": [],
+        "privadas": []
+      }
+    },
+    "arequipa": {
+      "universidades": {
+        "publicas": [
+          {
+            "nombre": "Universidad Nacional de San Agustín",
+            "siglas": "UNSA",
+            "caracteristicas_generales": {
+              "modalidades_estudio": ["presencial", "semipresencial"],
+              "carreras_disponibles": ["Medicina", "Ingeniería Civil", "Derecho", "Administración", "Psicología"]
+            },
+            "costos": {
+              "pension_mensual": [0],
+              "matricula": 0
+            },
+            "ranking_sunedu": 8
+          }
+        ],
+        "privadas": [
+          {
+            "nombre": "Universidad Católica San Pablo",
+            "siglas": "UCSP",
+            "caracteristicas_generales": {
+              "modalidades_estudio": ["presencial", "virtual"],
+              "carreras_disponibles": ["Administración", "Ingeniería Industrial", "Psicología", "Derecho", "Contabilidad"]
+            },
+            "costos": {
+              "pension_mensual": [800, 1200, 1800, 2200],
+              "matricula": 2000
+            },
+            "ranking_sunedu": 10
+          }
+        ]
+      }
+    },
+    "ayacucho": {
+      "universidades": {
+        "publicas": [],
+        "privadas": []
+      }
+    },
+    "cajamarca": {
+      "universidades": {
+        "publicas": [],
+        "privadas": []
+      }
+    },
+    "callao": {
+      "universidades": {
+        "publicas": [],
+        "privadas": []
+      }
+    },
+    "cusco": {
+      "universidades": {
+        "publicas": [
+          {
+            "nombre": "Universidad Nacional de San Antonio Abad del Cusco",
+            "caracteristicas_generales": {
+              "modalidades_estudio": ["presencial"],
+              "carreras_disponibles": ["Turismo", "Arqueología", "Ingeniería"]
+            },
+            "costos": {
+              "pension_mensual": 0,
+              "matricula": 0
+            },
+            "ranking_sunedu": 10
+          }
+        ],
+        "privadas": [
+          {
+            "nombre": "Universidad Andina del Cusco",
+            "caracteristicas_generales": {
+              "modalidades_estudio": ["presencial", "semipresencial"],
+              "carreras_disponibles": ["Medicina", "Derecho", "Administración"]
+            },
+            "costos": {
+              "pension_mensual": 1500,
+              "matricula": 1800
+            },
+            "ranking_sunedu": 15
+          }
+        ]
+      }
+    },
+    "huancavelica": {
+      "universidades": {
+        "publicas": [],
+        "privadas": []
+      }
+    },
+    "huanuco": {
+      "universidades": {
+        "publicas": [],
+        "privadas": []
+      }
+    },
+    "ica": {
+      "universidades": {
+        "publicas": [],
+        "privadas": []
+      }
+    },
+    "junin": {
+      "universidades": {
+        "publicas": [],
+        "privadas": []
+      }
+    },
+    "la_libertad": {
+      "universidades": {
+        "publicas": [],
+        "privadas": []
+      }
+    },
+    "lambayeque": {
+      "universidades": {
+        "publicas": [],
+        "privadas": []
+      }
+    },
+    "lima": {
+      "universidades": {
+        "publicas": [
+          {
+            "nombre": "Universidad Nacional Mayor de San Marcos",
+            "siglas": "UNMSM",
+            "caracteristicas_generales": {
+              "modalidades_estudio": ["presencial"],
+              "carreras_disponibles": ["Administración", "Contabilidad", "Negocios Internacionales", "Medicina", "Derecho", "Ingeniería de Sistemas", "Psicología"]
+            },
+            "costos": {
+              "pension_mensual": [0],
+              "matricula": 0
+            },
+            "ranking_sunedu": 3
+          },
+          {
+            "nombre": "Universidad Nacional de Ingeniería",
+            "siglas": "UNI",
+            "caracteristicas_generales": {
+              "modalidades_estudio": ["presencial"],
+              "carreras_disponibles": ["Ingeniería Civil", "Ingeniería Electrónica", "Ingeniería Industrial", "Arquitectura", "Ingeniería Mecánica"]
+            },
+            "costos": {
+              "pension_mensual": [0],
+              "matricula": 0
+            },
+            "ranking_sunedu": 4
+          },
+          {
+            "nombre": "Universidad Nacional Tecnológica de Lima Sur",
+            "siglas": "UNTELS",
+            "caracteristicas_generales": {
+              "modalidades_estudio": ["presencial"],
+              "carreras_disponibles": ["Ingeniería de Sistemas", "Ingeniería Electrónica", "Tecnología Ambiental"]
+            },
+            "costos": {
+              "pension_mensual": [0],
+              "matricula": 0
+            },
+            "ranking_sunedu": 15
+          }
+        ],
+        "privadas": [
+          {
+            "nombre": "Pontificia Universidad Católica del Perú",
+            "siglas": "PUCP",
+            "caracteristicas_generales": {
+              "modalidades_estudio": ["presencial", "semipresencial", "virtual"],
+              "carreras_disponibles": ["Ingeniería Civil", "Ingeniería Industrial", "Ingeniería Informática", "Derecho", "Economía", "Psicología"]
+            },
+            "costos": {
+              "pension_mensual": [1465, 2500, 3500, 4500, 5595],
+              "matricula": 3000
+            },
+            "ranking_sunedu": 1
+          },
+          {
+            "nombre": "Universidad Peruana Cayetano Heredia",
+            "siglas": "UPCH",
+            "caracteristicas_generales": {
+              "modalidades_estudio": ["presencial", "semipresencial"],
+              "carreras_disponibles": ["Medicina", "Biología", "Farmacia y Bioquímica", "Psicología", "Educación", "Administración en Salud"]
+            },
+            "costos": {
+              "pension_mensual": [1200, 2500, 4000, 5000, 6200],
+              "matricula": 3500
+            },
+            "ranking_sunedu": 2
+          },
+          {
+            "nombre": "Universidad del Pacífico",
+            "siglas": "UP",
+            "caracteristicas_generales": {
+              "modalidades_estudio": ["presencial"],
+              "carreras_disponibles": ["Economía", "Administración", "Negocios Internacionales", "Contabilidad", "Marketing"]
+            },
+            "costos": {
+              "pension_mensual": [1280, 2500, 3500, 4500, 5508],
+              "matricula": 3200
+            },
+            "ranking_sunedu": 3
+          }
+        ]
+      }
+    },
+    "loreto": {
+      "universidades": {
+        "publicas": [],
+        "privadas": []
+      }
+    },
+    "madre_de_dios": {
+      "universidades": {
+        "publicas": [],
+        "privadas": []
+      }
+    },
+    "moquegua": {
+      "universidades": {
+        "publicas": [],
+        "privadas": []
+      }
+    },
+    "pasco": {
+      "universidades": {
+        "publicas": [],
+        "privadas": []
+      }
+    },
+    "piura": {
+      "universidades": {
+        "publicas": [],
+        "privadas": []
+      }
+    },
+    "puno": {
+      "universidades": {
+        "publicas": [],
+        "privadas": []
+      }
+    },
+    "san_martin": {
+      "universidades": {
+        "publicas": [],
+        "privadas": []
+      }
+    },
+    "tacna": {
+      "universidades": {
+        "publicas": [],
+        "privadas": []
+      }
+    },
+    "tumbes": {
+      "universidades": {
+        "publicas": [],
+        "privadas": []
+      }
+    },
+    "ucayali": {
+      "universidades": {
+        "publicas": [],
+        "privadas": []
+      }
+    }
+  }
+}
 
